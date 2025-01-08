@@ -1,0 +1,1 @@
+print("mukodik ez  a nigger")
